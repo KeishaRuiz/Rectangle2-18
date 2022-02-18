@@ -1,0 +1,14 @@
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\bin\Debug\netcoreapp3.1\RectangleProj.exe
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\bin\Debug\netcoreapp3.1\RectangleProj.deps.json
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\bin\Debug\netcoreapp3.1\RectangleProj.runtimeconfig.json
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\bin\Debug\netcoreapp3.1\RectangleProj.runtimeconfig.dev.json
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\bin\Debug\netcoreapp3.1\RectangleProj.dll
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\bin\Debug\netcoreapp3.1\RectangleProj.pdb
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\obj\Debug\netcoreapp3.1\RectangleProj.csproj.AssemblyReference.cache
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\obj\Debug\netcoreapp3.1\RectangleProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\obj\Debug\netcoreapp3.1\RectangleProj.AssemblyInfoInputs.cache
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\obj\Debug\netcoreapp3.1\RectangleProj.AssemblyInfo.cs
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\obj\Debug\netcoreapp3.1\RectangleProj.csproj.CoreCompileInputs.cache
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\obj\Debug\netcoreapp3.1\RectangleProj.dll
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\obj\Debug\netcoreapp3.1\RectangleProj.pdb
+C:\Users\S7656167\source\repos\RectangleProj\RectangleProj\obj\Debug\netcoreapp3.1\RectangleProj.genruntimeconfig.cache
